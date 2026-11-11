@@ -150,19 +150,6 @@ python predict.py
 
 ---
 
-## Results
-
-*(Fill in after running `main.py`)*
-
-| Model | Accuracy | Precision | Recall | F1 |
-|-------|----------|-----------|--------|----|
-| Naive Bayes | | | | |
-| Logistic Regression | | | | |
-| Support Vector Machine | | | | |
-
-**Best Model:** ___
-
----
 
 ## Future Scope
 
